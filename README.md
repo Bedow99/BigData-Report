@@ -11,3 +11,4 @@
 ## Python 코드 예시
 
 파이썬에서 정규 표현식을 사용하기 위해 're'모듈을 임포트하여 사용한다.
+![정규식 표현](https://github.com/Bedow99/BigData-Report/assets/102810983/4c780db1-a8f2-40b7-b1da-81d8fa417fb8)
